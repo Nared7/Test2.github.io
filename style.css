@@ -1,0 +1,32 @@
+h1.heading1:hover{
+    color: aqua;
+}
+
+#heading2{
+    color: rebeccapurple;
+    font-family: 'Hachi Maru Pop', cursive;
+    border-style: solid;
+}
+
+p.para1{
+    width: 100px;
+    border-style: solid;
+    height: 50px;
+    overflow: scroll;
+    border-width: 15px 10px 5px 1px;
+    border-color: red green blue cyan;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+
+p.name{
+    width: 110px;
+    border-style: solid;
+    padding: 10px;
+    margin: 20px auto 20px auto;
+    border-image: url("images/dots.gif") 10 10 10 10 stretch;
+}
+
+a{
+    display: block;
+}
